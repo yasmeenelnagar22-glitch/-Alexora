@@ -74,7 +74,7 @@ The following four-week schedule is the proposed project work plan. Progress and
 | Mariam Taha | Visual Designer & Video Editor | Develop visual identity assets, design social media posts, edit short-form videos, and design the digital guide and presentation visuals. |
 | Donia Abdelmonaem | Social Media & Community Manager | Organize publishing, manage social media pages, respond to comments and messages, monitor audience feedback, and document community activity. |
 | Mohamed Abdelwahab | Paid Media & Analytics Specialist | Prepare advertising objectives, audience targeting and proposed budgets, define tracking requirements, analyze available performance data, and prepare reporting summaries. |
-All team members contribute to reviewing deliverables and preparing the final presentation.
+
 
 KPIs
 The following KPIs will be used to evaluate project performance where implementation and tracking are available.

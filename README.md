@@ -109,8 +109,6 @@ Digital Egypt Pioneers Initiative (DEPI)
 
 Project files will be added to this repository as the team completes them. The links below are ready-to-use placeholders: upload each file to the displayed path, then replace **Add file** with the file name or a short descriptive link. Until a file is uploaded, its link will not open.
 
-**Status key:** 🔴 Planned · 🟡 In progress · 🟢 Complete · ⚪ Awaiting implementation and measurement
-
 ### Planned deliverables
 
 | Deliverable | Status | GitHub file path |
@@ -130,18 +128,4 @@ Project files will be added to this repository as the team completes them. The l
 | Final presentation | [Add file](deliverables/13_presentation/Alexora_Final_Presentation_v1.pdf) |
 | Social media pages and published content | [Add file](deliverables/14_published_content/README.md) |
 
-Use descriptive names with underscores, a version number, and (for dated results) the reporting date:
-
-Upload files to the matching `deliverables/`, `results/`, `proposed/`, or `simulated/` path. For multiple designs, videos, or published links, add a short `README.md` in that folder listing each asset, its date, and its status.
-
-### Completion checklist
-
-For each deliverable:
-
-- [ ] Upload the file to the recommended path.
-- [ ] Replace **Add file** with a link to the uploaded file.
-- [ ] Change the status to **In progress** or **Complete**.
-- [ ] Confirm the GitHub link opens and the filename matches the file.
-- [ ] Label proposed or simulated material clearly and keep it out of actual-results reporting.
-- [ ] Add actual performance figures only when the activity is implemented and measured; include the reporting period and data source.
 

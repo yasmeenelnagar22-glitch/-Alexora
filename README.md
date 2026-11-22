@@ -115,49 +115,22 @@ Project files will be added to this repository as the team completes them. The l
 
 | Deliverable | Status | GitHub file path |
 | --- | --- | --- |
-| Project brief | 🔴 Planned | [Add file](deliverables/01_project_brief/Project_Brief_Alexora_v1.pdf) |
-| Market and competitor research | 🔴 Planned | [Add file](deliverables/02_research/Market_and_Competitor_Research_Alexora_v1.pdf) |
-| Audience segments and buyer personas | 🔴 Planned | [Add file](deliverables/03_audience/Audience_and_Buyer_Personas_Alexora_v1.pdf) |
-| Marketing strategy | 🔴 Planned | [Add file](deliverables/04_strategy/Marketing_Strategy_Alexora_v1.pdf) |
-| Brand identity guidelines | 🔴 Planned | [Add file](deliverables/05_branding/Brand_Guidelines_Alexora_v1.pdf) |
-| Social media strategy and content calendar | 🔴 Planned | [Add file](deliverables/06_content_planning/Social_Media_Strategy_and_Content_Calendar_Alexora_v1.xlsx) |
-| Social media designs and short-form videos | 🔴 Planned | [Add file](deliverables/07_creative/README.md) |
-| Free Alexandria digital guide | 🔴 Planned | [Add file](deliverables/08_tourism_guide/A_Day_in_Alexandria_Your_Way_v1.pdf) |
-| SEO keyword research and sample content | 🔴 Planned | [Add file](deliverables/09_seo/SEO_Keywords_and_Sample_Content_Alexora_v1.pdf) |
-| Paid advertising plan | 🔴 Planned | [Add file](deliverables/10_paid_media/Paid_Advertising_Plan_Alexora_v1.pdf) |
-| KPI framework and tracking template | 🔴 Planned | [Add file](deliverables/11_measurement/KPI_Framework_and_Tracking_Template_Alexora_v1.xlsx) |
-| Final project report | 🔴 Planned | [Add file](deliverables/12_final_report/Final_Project_Report_Alexora_v1.pdf) |
-| Final presentation | 🔴 Planned | [Add file](deliverables/13_presentation/Alexora_Final_Presentation_v1.pdf) |
-| Social media pages and published content | 🔴 Planned | [Add file](deliverables/14_published_content/README.md) |
-
-### Actual campaign results
-
-Actual results will be posted here only after an activity has been implemented and its data recorded. This section is separate from plans, forecasts, and simulated examples.
-
-| Evidence | Status | GitHub file path |
-| --- | --- | --- |
-| Actual campaign performance report, with reporting dates and source notes | ⚪ Awaiting implementation and measurement | [Add report when measured](results/Actual_Campaign_Results_YYYY-MM-DD.md) |
-
-If an activity is not launched or a metric is unavailable, state that clearly in the report. Do not enter proposed targets, forecasts, or simulated figures as actual results.
-
-### Proposed plans and simulated examples
-
-Keep plans, forecasts, mockups, and simulated examples in a separate folder. Label each file **Proposed** or **Simulated** in its title and inside the document. These materials explain intended or illustrative work; they are not evidence of campaign performance.
-
-| Material type | Recommended file path |
-| --- | --- |
-| Proposed campaign activities, targeting, or budgets | `proposed/Proposed_Paid_Campaign_Plan_v1.pdf` |
-| Forecasts or simulated KPI examples | `simulated/Simulated_KPI_Example_v1.xlsx` |
-| Unpublished design or content mockups | `proposed/Proposed_Content_Mockups_v1.pdf` |
-
-### File naming and upload guide
+| Project brief | [Add file](deliverables/01_project_brief/Project_Brief_Alexora_v1.pdf) |
+| Market and competitor research | [Add file](deliverables/02_research/Market_and_Competitor_Research_Alexora_v1.pdf) |
+| Audience segments and buyer personas | [Add file](deliverables/03_audience/Audience_and_Buyer_Personas_Alexora_v1.pdf) |
+| Marketing strategy | [Add file](deliverables/04_strategy/Marketing_Strategy_Alexora_v1.pdf) |
+| Brand identity guidelines | [Add file](deliverables/05_branding/Brand_Guidelines_Alexora_v1.pdf) |
+| Social media strategy and content calendar | [Add file](deliverables/06_content_planning/Social_Media_Strategy_and_Content_Calendar_Alexora_v1.xlsx) |
+| Social media designs and short-form videos | [Add file](deliverables/07_creative/README.md) |
+| Free Alexandria digital guide | [Add file](deliverables/08_tourism_guide/A_Day_in_Alexandria_Your_Way_v1.pdf) |
+| SEO keyword research and sample content | [Add file](deliverables/09_seo/SEO_Keywords_and_Sample_Content_Alexora_v1.pdf) |
+| Paid advertising plan | [Add file](deliverables/10_paid_media/Paid_Advertising_Plan_Alexora_v1.pdf) |
+| KPI framework and tracking template | [Add file](deliverables/11_measurement/KPI_Framework_and_Tracking_Template_Alexora_v1.xlsx) |
+| Final project report | [Add file](deliverables/12_final_report/Final_Project_Report_Alexora_v1.pdf) |
+| Final presentation | [Add file](deliverables/13_presentation/Alexora_Final_Presentation_v1.pdf) |
+| Social media pages and published content | [Add file](deliverables/14_published_content/README.md) |
 
 Use descriptive names with underscores, a version number, and (for dated results) the reporting date:
-
-- Deliverable: `Project_Brief_Alexora_v1.pdf`
-- Spreadsheet: `Social_Media_Content_Calendar_Alexora_v1.xlsx`
-- Actual results: `Actual_Campaign_Results_2026-11-20.md`
-- Proposed or simulated work: `Proposed_Paid_Campaign_Plan_v1.pdf` or `Simulated_KPI_Example_v1.xlsx`
 
 Upload files to the matching `deliverables/`, `results/`, `proposed/`, or `simulated/` path. For multiple designs, videos, or published links, add a short `README.md` in that folder listing each asset, its date, and its status.
 

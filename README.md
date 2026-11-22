@@ -92,12 +92,6 @@ The following KPIs will be used to evaluate project performance where implementa
 | Paid Advertising, if implemented | CTR, CPC, and cost per guide conversion | Advertising platform reports and configured conversion tracking. |
 | Project Delivery | Deliverable completion rate | Completed deliverables ÷ planned deliverables × 100. |
 
-Measurement Notes
-- Numerical performance targets will be agreed upon before campaign implementation, based on the campaign duration, starting audience, available resources, and any approved advertising budget.
-- Actual results will be reported only for activities that have been implemented and measured.
-- Paid advertising execution depends on budget availability; preparing a paid campaign plan does not mean that ads have been launched.
-- Proposed activities, forecasts, and any simulated examples will be clearly labeled and kept separate from actual results.
-- If a metric cannot be tracked, it will be reported as unavailable.
 
 Instructor
 **Mr. Momen Elbadri**

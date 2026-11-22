@@ -101,9 +101,6 @@ Digital Egypt Pioneers Initiative (DEPI)
 
 ## Project Files
 
-Project files will be added to this repository as the team completes them. The links below are ready-to-use placeholders: upload each file to the displayed path, then replace **Add file** with the file name or a short descriptive link. Until a file is uploaded, its link will not open.
-
-### Planned deliverables
 
 | Deliverable | Status | GitHub file path |
 | --- | --- | --- |
